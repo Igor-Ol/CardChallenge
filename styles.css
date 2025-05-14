@@ -1,0 +1,21 @@
+@import "https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap";
+
+.design {
+    color: blueviolet;
+    margin: 0 0 0 1.8em;
+}
+
+main {
+    font-family: "Sora";
+    border-radius: 100px;
+    text-align: center;
+    margin: 10rem 30em 0;
+    text-align: justify;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    border: none;
+
+}
+img {
+    border-radius: 10px;
+    width: 100%;
+}
